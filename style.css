@@ -1,0 +1,15 @@
+h1 {
+  font-style: 72px;
+  font-weight: 400;
+  background-color: red;
+  line-height: normal;
+  padding: 20px;
+  margin: 20px;
+}
+.nav {
+  font-family: cursive;
+
+}
+h2 {
+  color: orange
+}
